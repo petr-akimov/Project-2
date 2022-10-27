@@ -22,6 +22,7 @@ github.com
 
 [user]
         email = petr.akimov@yahoo.com
+        
         name = Petr Akimov
 
 [commit]
