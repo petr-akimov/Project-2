@@ -1,0 +1,9 @@
+[gpg]
+	program = gpg
+[user]
+	email = petr.akimov@yahoo.com
+	name = Petr Akimov
+[commit]
+	gpgsign = true
+[alias]
+	history = log --graph
